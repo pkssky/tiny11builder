@@ -1,4 +1,5 @@
 using Microsoft.Windows.ApplicationModel.Resources;
+using Tiny11Builder.Core;
 using Windows.Globalization;
 using Windows.Storage;
 

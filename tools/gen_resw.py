@@ -406,7 +406,7 @@ ZH = {
     "ModeCustom": "自定义",
     "CompRecovery": "恢复 ESD",
     "CompMaximum": "最大 WIM",
-    "CompFast": "快速 WIM",
+    "CompFastWim": "快速 WIM",
 
     # SetupLabels (legacy installer note)
     "LegacyInstaller": "旧版安装程序：自动（因 {0} 需要）",

@@ -1023,7 +1023,7 @@ public sealed partial class MainWindow : Window
         {
             Compression.Recovery => L10n.T("CompRecovery", "Recovery ESD"),
             Compression.Maximum => L10n.T("CompMaximum", "Maximum WIM"),
-            _ => L10n.T("CompFast", "Fast WIM")
+            _ => L10n.T("CompFastWim", "Fast WIM")
         };
         ReviewOptions.Text = string.Format(L10n.T("ReviewOptionsCompFmt", "{0} compression"), compressionWord) + "\n" +
             string.Format(L10n.T("ReviewTurboLine", "Turbo mode: {0}"), recipe.TurboMode ? L10n.T("TurboOn", "On") : L10n.T("TurboOff", "Off")) + "\n" +

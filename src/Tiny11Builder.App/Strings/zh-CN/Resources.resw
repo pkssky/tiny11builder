@@ -204,11 +204,11 @@
   <data name="CloseReopen" xml:space="preserve">
     <value>请关闭并重新打开 Tiny11 Builder。</value>
   </data>
-  <data name="CompFast" xml:space="preserve">
-    <value>快速 WIM</value>
-  </data>
   <data name="CompFast.Content" xml:space="preserve">
     <value>快速 WIM（构建最快，ISO 更大）</value>
+  </data>
+  <data name="CompFastWim" xml:space="preserve">
+    <value>快速 WIM</value>
   </data>
   <data name="CompMax.Content" xml:space="preserve">
     <value>最大 WIM（便于日后维护）</value>

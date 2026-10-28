@@ -256,7 +256,7 @@ internal static class ResumeSupport
         {
             Compression.Recovery => L10n.T("CompRecovery", "Recovery ESD"),
             Compression.Maximum => L10n.T("CompMaximum", "Maximum WIM"),
-            _ => L10n.T("CompFast", "Fast WIM")
+            _ => L10n.T("CompFastWim", "Fast WIM")
         };
         var text = new StringBuilder();
         text.AppendLine(string.Format(L10n.T("ResumeHeader", "Output: {0}"), recipe.OutputPath));
